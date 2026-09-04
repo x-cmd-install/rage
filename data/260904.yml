@@ -7,7 +7,7 @@ about:
   head: b5b68c4
   archived: false
   latestVersion: v0.12.1
-  collectedAt: 2026-09-04T19:18:20Z
+  collectedAt: 2026-09-04T21:19:36Z
 timeline:
   created: 2019-10-08
   lastCommit: 2026-07-14
@@ -81,6 +81,49 @@ total:
   openIssue: 47
   commit: 1533
 ---
+path: /home/runner/.x-repo/github.com/str4d/rage
+collectedAt: 2026-09-04T21:19:39Z
+loc:
+  Rust:
+    code: 12768
+    comments: 582
+    blanks: 1720
+    files: 58
+  FreeMarker:
+    code: 2338
+    comments: 0
+    blanks: 947
+    files: 14
+  Toml:
+    code: 2024
+    comments: 95
+    blanks: 394
+    files: 65
+  Pan:
+    code: 10
+    comments: 3
+    blanks: 7
+    files: 1
+  Json:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1276
+    blanks: 260
+    files: 10
+  Text:
+    code: 0
+    comments: 2137
+    blanks: 0
+    files: 24
+total:
+  code: 17222
+  comments: 5547
+  blanks: 3683
+  files: 173
 ---
 date: "2026-08-24"
 repo:
