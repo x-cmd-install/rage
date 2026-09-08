@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 5188611,
       "digest": "sha256:c5d7ab41fbf1213590e89721fd2b8eb122e84518c155ce35866f1c5759a3a29f",
-      "download_count": 1718,
+      "download_count": 1754,
       "created_at": "2026-07-14T03:09:06Z",
       "updated_at": "2026-07-14T03:09:07Z",
       "browser_download_url": "https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-x86_64-linux.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 1893596,
       "digest": "sha256:1f3bfd02cc08eea34c30d3985be59dfaac17783c1eac8dfcabb989fc40b9dcbb",
-      "download_count": 529,
+      "download_count": 533,
       "created_at": "2026-07-14T03:08:39Z",
       "updated_at": "2026-07-14T03:08:39Z",
       "browser_download_url": "https://github.com/str4d/rage/releases/download/v0.12.1/rage_0.12.1-1_amd64.deb"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 1264920,
       "digest": "sha256:cb96b983ea2514f5bca798b3f8c9902d9df2507cbe4c1a26f9442362635748be",
-      "download_count": 104,
+      "download_count": 105,
       "created_at": "2026-07-14T03:09:52Z",
       "updated_at": "2026-07-14T03:09:53Z",
       "browser_download_url": "https://github.com/str4d/rage/releases/download/v0.12.1/rage_0.12.1-1_arm64.deb"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 1214956,
       "digest": "sha256:31e19e94662e7340c95ff50676ebb09d553d627b42baebeb0c66928bbd16569b",
-      "download_count": 104,
+      "download_count": 105,
       "created_at": "2026-07-14T03:10:15Z",
       "updated_at": "2026-07-14T03:10:15Z",
       "browser_download_url": "https://github.com/str4d/rage/releases/download/v0.12.1/rage_0.12.1-1_armhf.deb"
