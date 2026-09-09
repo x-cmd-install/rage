@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2792355,
       "digest": "sha256:25478bfca7085c7bf59e9f552907d4d0f4635e8de501b0b3553949edef39053e",
-      "download_count": 85,
+      "download_count": 87,
       "created_at": "2026-07-14T03:07:33Z",
       "updated_at": "2026-07-14T03:07:33Z",
       "browser_download_url": "https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-arm64-darwin.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2997285,
       "digest": "sha256:d6814986f9fb0c62bdd4f40a3672468ef3d64d0a3e894ffceb6d1a618309964b",
-      "download_count": 175,
+      "download_count": 180,
       "created_at": "2026-07-14T03:09:03Z",
       "updated_at": "2026-07-14T03:09:03Z",
       "browser_download_url": "https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-arm64-linux.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 5188611,
       "digest": "sha256:c5d7ab41fbf1213590e89721fd2b8eb122e84518c155ce35866f1c5759a3a29f",
-      "download_count": 1754,
+      "download_count": 1771,
       "created_at": "2026-07-14T03:09:06Z",
       "updated_at": "2026-07-14T03:09:07Z",
       "browser_download_url": "https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-x86_64-linux.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 2482497,
       "digest": "sha256:da5b8111c8f097c7822df505ad504696e4891ff8adec06a39171f8d717590b2c",
-      "download_count": 368,
+      "download_count": 370,
       "created_at": "2026-07-14T03:09:03Z",
       "updated_at": "2026-07-14T03:09:03Z",
       "browser_download_url": "https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-x86_64-windows.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 1893596,
       "digest": "sha256:1f3bfd02cc08eea34c30d3985be59dfaac17783c1eac8dfcabb989fc40b9dcbb",
-      "download_count": 533,
+      "download_count": 540,
       "created_at": "2026-07-14T03:08:39Z",
       "updated_at": "2026-07-14T03:08:39Z",
       "browser_download_url": "https://github.com/str4d/rage/releases/download/v0.12.1/rage_0.12.1-1_amd64.deb"
