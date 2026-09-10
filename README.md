@@ -23,11 +23,27 @@ x install rage
 - **Latest**: `v0.12.1` (2026-07-14)
 - **Last commit**: 2026-07-14
 - **Assets in release**: 12
-- **Published**: 2026-07-14T03:07:32Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [rage-musl_0.12.1-1_amd64.deb](https://github.com/str4d/rage/releases/download/v0.12.1/rage-musl_0.12.1-1_amd64.deb) | 1.4 MiB | `runtime/deb/amd64` |
+| [rage-musl_0.12.1-1_arm64.deb](https://github.com/str4d/rage/releases/download/v0.12.1/rage-musl_0.12.1-1_arm64.deb) | 1.2 MiB | `runtime/deb/arm64` |
+| [rage-musl_0.12.1-1_armhf.deb](https://github.com/str4d/rage/releases/download/v0.12.1/rage-musl_0.12.1-1_armhf.deb) | 1.2 MiB | `runtime/deb/armhf` |
+| [rage-v0.12.1-arm64-darwin.tar.gz](https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-arm64-darwin.tar.gz) | 2.7 MiB | `native/darwin/arm64` |
+| [rage-v0.12.1-arm64-linux.tar.gz](https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-arm64-linux.tar.gz) | 2.9 MiB | `native/linux/arm64` |
+| [rage-v0.12.1-armv7-linux.tar.gz](https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-armv7-linux.tar.gz) | 2.8 MiB | `native/linux/arm` |
+| [rage-v0.12.1-x86_64-darwin.tar.gz](https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-x86_64-darwin.tar.gz) | 2.8 MiB | `native/darwin/x64` |
+| [rage-v0.12.1-x86_64-linux.tar.gz](https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-x86_64-linux.tar.gz) | 4.9 MiB | `native/linux/x64` |
+| [rage-v0.12.1-x86_64-windows.zip](https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-x86_64-windows.zip) | 2.4 MiB | `native/win/x64` |
+| [rage_0.12.1-1_amd64.deb](https://github.com/str4d/rage/releases/download/v0.12.1/rage_0.12.1-1_amd64.deb) | 1.8 MiB | `runtime/deb/amd64` |
+| [rage_0.12.1-1_arm64.deb](https://github.com/str4d/rage/releases/download/v0.12.1/rage_0.12.1-1_arm64.deb) | 1.2 MiB | `runtime/deb/arm64` |
+| [rage_0.12.1-1_armhf.deb](https://github.com/str4d/rage/releases/download/v0.12.1/rage_0.12.1-1_armhf.deb) | 1.2 MiB | `runtime/deb/armhf` |
 
 ## Popularity
 
-- **Stars**: 3,650 · **Forks**: 160 · **Open issues**: 228 · **Contributors**: 37
+- **Stars**: 3,648 · **Forks**: 160 · **Open issues**: 228 · **Contributors**: 37
 
 ## Totals (cumulative)
 
@@ -68,8 +84,8 @@ Lowest-scoring checks:
 Install metadata for rage lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `rage` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/rage.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/rage.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:43:02Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:19:45Z._

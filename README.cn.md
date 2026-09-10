@@ -4,7 +4,7 @@
 
 A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 
-![rage](https://repo.x-cmd.io/rage.svg)
+![rage](https://repo.x-cmd.io/rage.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,27 @@ x install rage
 - **最新版本**: `v0.12.1` (2026-07-14)
 - **最近提交**: 2026-07-14
 - **Release 含资产**: 12 个
-- **发布时间**: 2026-07-14T03:07:32Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [rage-musl_0.12.1-1_amd64.deb](https://github.com/str4d/rage/releases/download/v0.12.1/rage-musl_0.12.1-1_amd64.deb) | 1.4 MiB | `runtime/deb/amd64` |
+| [rage-musl_0.12.1-1_arm64.deb](https://github.com/str4d/rage/releases/download/v0.12.1/rage-musl_0.12.1-1_arm64.deb) | 1.2 MiB | `runtime/deb/arm64` |
+| [rage-musl_0.12.1-1_armhf.deb](https://github.com/str4d/rage/releases/download/v0.12.1/rage-musl_0.12.1-1_armhf.deb) | 1.2 MiB | `runtime/deb/armhf` |
+| [rage-v0.12.1-arm64-darwin.tar.gz](https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-arm64-darwin.tar.gz) | 2.7 MiB | `native/darwin/arm64` |
+| [rage-v0.12.1-arm64-linux.tar.gz](https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-arm64-linux.tar.gz) | 2.9 MiB | `native/linux/arm64` |
+| [rage-v0.12.1-armv7-linux.tar.gz](https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-armv7-linux.tar.gz) | 2.8 MiB | `native/linux/arm` |
+| [rage-v0.12.1-x86_64-darwin.tar.gz](https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-x86_64-darwin.tar.gz) | 2.8 MiB | `native/darwin/x64` |
+| [rage-v0.12.1-x86_64-linux.tar.gz](https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-x86_64-linux.tar.gz) | 4.9 MiB | `native/linux/x64` |
+| [rage-v0.12.1-x86_64-windows.zip](https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-x86_64-windows.zip) | 2.4 MiB | `native/win/x64` |
+| [rage_0.12.1-1_amd64.deb](https://github.com/str4d/rage/releases/download/v0.12.1/rage_0.12.1-1_amd64.deb) | 1.8 MiB | `runtime/deb/amd64` |
+| [rage_0.12.1-1_arm64.deb](https://github.com/str4d/rage/releases/download/v0.12.1/rage_0.12.1-1_arm64.deb) | 1.2 MiB | `runtime/deb/arm64` |
+| [rage_0.12.1-1_armhf.deb](https://github.com/str4d/rage/releases/download/v0.12.1/rage_0.12.1-1_armhf.deb) | 1.2 MiB | `runtime/deb/armhf` |
 
 ## 流行度
 
-- **Star**: 3,650 · **Fork**: 160 · **开放 issue**: 228 · **贡献者**: 37
+- **Star**: 3,648 · **Fork**: 160 · **开放 issue**: 228 · **贡献者**: 37
 
 ## 累计统计
 
@@ -72,4 +88,4 @@ rage 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:43:03Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:19:46Z._
