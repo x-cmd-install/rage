@@ -12,52 +12,7 @@ A simple, secure and modern file encryption tool (and Rust library) with small e
 x install rage
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/str4d/rage>
-- **Homepage**: <https://age-encryption.org/v1>
-- **License**: Apache-2.0
-
-## Release
-
-- **Latest**: `v0.12.1` (2026-07-14)
-- **Last commit**: 2026-07-14
-- **Assets in release**: 12
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [rage-musl_0.12.1-1_amd64.deb](https://github.com/str4d/rage/releases/download/v0.12.1/rage-musl_0.12.1-1_amd64.deb) | 1.4 MiB | `runtime/deb/amd64` |
-| [rage-musl_0.12.1-1_arm64.deb](https://github.com/str4d/rage/releases/download/v0.12.1/rage-musl_0.12.1-1_arm64.deb) | 1.2 MiB | `runtime/deb/arm64` |
-| [rage-musl_0.12.1-1_armhf.deb](https://github.com/str4d/rage/releases/download/v0.12.1/rage-musl_0.12.1-1_armhf.deb) | 1.2 MiB | `runtime/deb/armhf` |
-| [rage-v0.12.1-arm64-darwin.tar.gz](https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-arm64-darwin.tar.gz) | 2.7 MiB | `native/darwin/arm64` |
-| [rage-v0.12.1-arm64-linux.tar.gz](https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-arm64-linux.tar.gz) | 2.9 MiB | `native/linux/arm64` |
-| [rage-v0.12.1-armv7-linux.tar.gz](https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-armv7-linux.tar.gz) | 2.8 MiB | `native/linux/arm` |
-| [rage-v0.12.1-x86_64-darwin.tar.gz](https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-x86_64-darwin.tar.gz) | 2.8 MiB | `native/darwin/x64` |
-| [rage-v0.12.1-x86_64-linux.tar.gz](https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-x86_64-linux.tar.gz) | 4.9 MiB | `native/linux/x64` |
-| [rage-v0.12.1-x86_64-windows.zip](https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-x86_64-windows.zip) | 2.4 MiB | `native/win/x64` |
-| [rage_0.12.1-1_amd64.deb](https://github.com/str4d/rage/releases/download/v0.12.1/rage_0.12.1-1_amd64.deb) | 1.8 MiB | `runtime/deb/amd64` |
-| [rage_0.12.1-1_arm64.deb](https://github.com/str4d/rage/releases/download/v0.12.1/rage_0.12.1-1_arm64.deb) | 1.2 MiB | `runtime/deb/arm64` |
-| [rage_0.12.1-1_armhf.deb](https://github.com/str4d/rage/releases/download/v0.12.1/rage_0.12.1-1_armhf.deb) | 1.2 MiB | `runtime/deb/armhf` |
-
-## Popularity
-
-- **Stars**: 3,648 · **Forks**: 160 · **Open issues**: 228 · **Contributors**: 37
-
-## Totals (cumulative)
-
-- **Releases**: 26 · **Merged PRs**: 328 · **Open PRs**: 19 · **Closed issues**: 180 · **Open issues**: 48 · **Commits**: 1533
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 2 | 0 |
-| 90d | 2026-06-12 | 4 | 7 | 5 | 2 | 5 | 19 |
-| 360d | 2025-09-15 | 5 | 23 | 8 | 10 | 12 | 74 |
-
-## Code size
+## Code insight
 
 Total: **17,143** lines of code across **139** files in the top 5 languages.
 
@@ -79,6 +34,54 @@ Lowest-scoring checks:
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
+## Source
+
+- **Upstream**: <https://github.com/str4d/rage>
+- **Homepage**: <https://age-encryption.org/v1>
+- **License**: Apache-2.0
+
+## Release
+
+- **Latest**: `v0.12.1` (2026-07-14)
+- **Last commit**: 2026-07-14
+- **Assets in release**: 12
+
+## Popularity
+
+- **Stars**: 3,650 · **Forks**: 160 · **Open issues**: 228 · **Contributors**: 37
+
+## Totals (cumulative)
+
+- **Releases**: 26 · **Merged PRs**: 328 · **Open PRs**: 19 · **Closed issues**: 180 · **Open issues**: 48 · **Commits**: 1533
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 0 | 0 | 1 | 0 | 2 | 0 |
+| last60d | 2026-07-13 | 4 | 2 | 4 | 0 | 4 | 0 |
+| 90d | 2026-06-13 | 4 | 7 | 5 | 2 | 5 | 19 |
+| last180d | 2026-03-15 | 5 | 13 | 6 | 8 | 7 | 40 |
+| 360d | 2025-09-16 | 5 | 23 | 8 | 10 | 12 | 74 |
+| last720d | 2024-09-21 | 9 | 30 | 14 | 24 | 24 | 147 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [rage-musl_0.12.1-1_amd64.deb](https://github.com/str4d/rage/releases/download/v0.12.1/rage-musl_0.12.1-1_amd64.deb) | 1.4 MiB | `runtime/deb/amd64` |
+| [rage-musl_0.12.1-1_arm64.deb](https://github.com/str4d/rage/releases/download/v0.12.1/rage-musl_0.12.1-1_arm64.deb) | 1.2 MiB | `runtime/deb/arm64` |
+| [rage-musl_0.12.1-1_armhf.deb](https://github.com/str4d/rage/releases/download/v0.12.1/rage-musl_0.12.1-1_armhf.deb) | 1.2 MiB | `runtime/deb/armhf` |
+| [rage-v0.12.1-arm64-darwin.tar.gz](https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-arm64-darwin.tar.gz) | 2.7 MiB | `native/darwin/arm64` |
+| [rage-v0.12.1-arm64-linux.tar.gz](https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-arm64-linux.tar.gz) | 2.9 MiB | `native/linux/arm64` |
+| [rage-v0.12.1-armv7-linux.tar.gz](https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-armv7-linux.tar.gz) | 2.8 MiB | `native/linux/arm` |
+| [rage-v0.12.1-x86_64-darwin.tar.gz](https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-x86_64-darwin.tar.gz) | 2.8 MiB | `native/darwin/x64` |
+| [rage-v0.12.1-x86_64-linux.tar.gz](https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-x86_64-linux.tar.gz) | 4.9 MiB | `native/linux/x64` |
+| [rage-v0.12.1-x86_64-windows.zip](https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-x86_64-windows.zip) | 2.4 MiB | `native/win/x64` |
+| [rage_0.12.1-1_amd64.deb](https://github.com/str4d/rage/releases/download/v0.12.1/rage_0.12.1-1_amd64.deb) | 1.8 MiB | `runtime/deb/amd64` |
+| [rage_0.12.1-1_arm64.deb](https://github.com/str4d/rage/releases/download/v0.12.1/rage_0.12.1-1_arm64.deb) | 1.2 MiB | `runtime/deb/arm64` |
+| [rage_0.12.1-1_armhf.deb](https://github.com/str4d/rage/releases/download/v0.12.1/rage_0.12.1-1_armhf.deb) | 1.2 MiB | `runtime/deb/armhf` |
+
 ## Improve this data
 
 Install metadata for rage lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `rage` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -88,4 +91,4 @@ Install metadata for rage lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:19:45Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:16:51Z._
