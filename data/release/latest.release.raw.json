@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2792355,
       "digest": "sha256:25478bfca7085c7bf59e9f552907d4d0f4635e8de501b0b3553949edef39053e",
-      "download_count": 87,
+      "download_count": 89,
       "created_at": "2026-07-14T03:07:33Z",
       "updated_at": "2026-07-14T03:07:33Z",
       "browser_download_url": "https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-arm64-darwin.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 5188611,
       "digest": "sha256:c5d7ab41fbf1213590e89721fd2b8eb122e84518c155ce35866f1c5759a3a29f",
-      "download_count": 1866,
+      "download_count": 1871,
       "created_at": "2026-07-14T03:09:06Z",
       "updated_at": "2026-07-14T03:09:07Z",
       "browser_download_url": "https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-x86_64-linux.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 2482497,
       "digest": "sha256:da5b8111c8f097c7822df505ad504696e4891ff8adec06a39171f8d717590b2c",
-      "download_count": 386,
+      "download_count": 389,
       "created_at": "2026-07-14T03:09:03Z",
       "updated_at": "2026-07-14T03:09:03Z",
       "browser_download_url": "https://github.com/str4d/rage/releases/download/v0.12.1/rage-v0.12.1-x86_64-windows.zip"
