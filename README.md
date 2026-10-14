@@ -26,13 +26,13 @@ Total: **17,143** lines of code across **139** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.7 / 10**
+Overall score: **3.7 / 10**
 
 Lowest-scoring checks:
 
 - **Code-Review** (1/10) — Found 1/8 approved changesets -- score normalized to 1
+- **Maintained** (1/10) — 0 commit(s) and 2 issue activity found in the last 90 days -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 0 | 0 | 0 | 3 | 0 |
-| last60d | 2026-08-14 | 0 | 0 | 1 | 0 | 5 | 0 |
-| 90d | 2026-07-15 | 0 | 0 | 4 | 0 | 7 | 0 |
-| last180d | 2026-04-16 | 5 | 10 | 6 | 6 | 10 | 34 |
-| 360d | 2025-10-18 | 5 | 22 | 8 | 9 | 14 | 74 |
-| last720d | 2024-10-23 | 9 | 28 | 14 | 17 | 24 | 142 |
+| 30d | 2026-09-14 | 0 | 0 | 0 | 0 | 3 | 0 |
+| last60d | 2026-08-15 | 0 | 0 | 1 | 0 | 5 | 0 |
+| 90d | 2026-07-16 | 0 | 0 | 4 | 0 | 7 | 0 |
+| last180d | 2026-04-17 | 5 | 10 | 5 | 6 | 10 | 34 |
+| 360d | 2025-10-19 | 5 | 22 | 8 | 9 | 14 | 74 |
+| last720d | 2024-10-24 | 9 | 28 | 14 | 17 | 24 | 142 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for rage lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T06:48:39Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:00:22Z._
