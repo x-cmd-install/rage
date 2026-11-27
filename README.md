@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,744 · **Forks**: 170 · **Open issues**: 236 · **Contributors**: 38
+- **Stars**: 3,747 · **Forks**: 171 · **Open issues**: 236 · **Contributors**: 38
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 3 | 0 |
-| last60d | 2026-09-27 | 0 | 0 | 2 | 0 | 7 | 0 |
-| 90d | 2026-08-28 | 0 | 0 | 2 | 0 | 10 | 0 |
-| last180d | 2026-05-30 | 4 | 8 | 6 | 3 | 13 | 0 |
-| 360d | 2025-12-01 | 5 | 23 | 9 | 10 | 18 | 0 |
-| last720d | 2024-12-06 | 8 | 27 | 13 | 18 | 27 | 118 |
+| 30d | 2026-10-28 | 0 | 0 | 0 | 0 | 3 | 0 |
+| last60d | 2026-09-28 | 0 | 0 | 2 | 0 | 7 | 0 |
+| 90d | 2026-08-29 | 0 | 0 | 2 | 0 | 10 | 0 |
+| last180d | 2026-05-31 | 4 | 8 | 6 | 3 | 13 | 0 |
+| 360d | 2025-12-02 | 5 | 23 | 9 | 10 | 18 | 0 |
+| last720d | 2024-12-07 | 8 | 27 | 13 | 18 | 27 | 118 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for rage lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:20:34Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:19:13Z._
