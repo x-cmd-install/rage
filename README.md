@@ -14,13 +14,13 @@ x install rage
 
 ## Code insight
 
-Total: **17,138** lines of code across **139** files in the top 5 languages.
+Total: **17,246** lines of code across **139** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 12,767 | 582 | 1,720 | 58 |
+| Rust | 12,838 | 582 | 1,731 | 58 |
 | FreeMarker | 2,338 | 0 | 947 | 14 |
-| Toml | 2,020 | 95 | 394 | 65 |
+| Toml | 2,057 | 97 | 406 | 65 |
 | Pan | 10 | 3 | 7 | 1 |
 | Json | 3 | 0 | 0 | 1 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.12.1` (2026-07-14)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-27
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 3,747 · **Forks**: 171 · **Open issues**: 236 · **Contributors**: 38
+- **Stars**: 3,749 · **Forks**: 171 · **Open issues**: 236 · **Contributors**: 38
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 329 · **Open PRs**: 20 · **Closed issues**: 181 · **Open issues**: 55 · **Commits**: 1535
+- **Releases**: 26 · **Merged PRs**: 331 · **Open PRs**: 18 · **Closed issues**: 183 · **Open issues**: 53 · **Commits**: 1552
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 0 | 0 | 0 | 3 | 0 |
-| last60d | 2026-09-28 | 0 | 0 | 2 | 0 | 7 | 0 |
-| 90d | 2026-08-29 | 0 | 0 | 2 | 0 | 10 | 0 |
-| last180d | 2026-05-31 | 4 | 8 | 6 | 3 | 13 | 0 |
-| 360d | 2025-12-02 | 5 | 23 | 9 | 10 | 18 | 0 |
-| last720d | 2024-12-07 | 8 | 27 | 13 | 18 | 27 | 118 |
+| 30d | 2026-10-29 | 0 | 2 | 0 | 0 | 3 | 15 |
+| last60d | 2026-09-29 | 0 | 2 | 0 | 0 | 7 | 15 |
+| 90d | 2026-08-30 | 0 | 2 | 0 | 0 | 10 | 15 |
+| last180d | 2026-06-01 | 4 | 10 | 4 | 4 | 12 | 35 |
+| 360d | 2025-12-03 | 5 | 25 | 7 | 12 | 16 | 90 |
+| last720d | 2024-12-08 | 8 | 29 | 11 | 20 | 25 | 135 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for rage lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:19:13Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T07:44:22Z._
